@@ -67,6 +67,11 @@ maker first open the software and click the open file option as shown in below f
 
 ![empd exp8 1](https://github.com/Sharonsteffani2005/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/d025baf6-30e7-4e8e-8946-f41150a91c27)
 
+Step 3:- select the Pan option and select the extruder (left of right) for printing the design and
+then after select the Repair option for auto correction of design of software parameter as shown
+in below figure.
+
+![empd exp 8 2](https://github.com/Sharonsteffani2005/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/168452e6-1a4f-47b1-b2be-1c98437647c8)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
