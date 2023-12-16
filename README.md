@@ -47,8 +47,55 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Sharon Steffani.F
+### Register Number: 23007577
 
-## RESULT:
+### AIM: To prototype the given part model design in 3D Printer.
+### REQUIREMENTS:
+●	3D Printer machine.
+●	CURA 4.0 Software.
+●	Autodesk Fusion 360 Software.
+●	System - Windows 7 or higher, 1 GB RAM.
+
+## PROCEDURE:
+Step 1:- Check all Electrical connections.
+
+Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea
+maker first open the software and click the open file option as shown in below figure.
+![empd exp8 1](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/264472ca-7c05-4c46-91fd-f0e6512da8db)
+
+Step 3:- select the Pan option and select the extruder (left of right) for printing the design and
+then after select the Repair option for auto correction of design of software parameter as shown
+in below figure.
+
+![empd exp 8 2](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/94f6d580-dfea-4e02-84b6-0e262ae266c5)
+
+Step 4.:- select the Move option for design print position in build tack plate and then after select
+the Rotate option for rotate the design easily printed and used low print material as shown in
+below figure.
+
+![empd exp 8 3](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/d4233789-f4fb-4a48-8c61-660e9611343e)
+
+Step 5.:- select the Scale option for design scale according to build plate area and then
+after click the start option and select printing option standard as shown in below figure.
+
+![empd exp 8 4](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/92189c2f-bef5-4e46-a99e-cda050aa5804)
+
+Step 6.:- After completing all settings then click the Slice option and export the file in gcode
+format.
+
+![empd exp 8 5](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/8eb41b30-b916-4419-afd3-2776b6176e3b)
+
+![empd exp 8 6](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/28fbde5d-21e1-4b00-a05a-99c4546d987c)
+
+Step 7.:- After generating the gcode format then follow the these instruction as shown in below
+figure.
+1.	Switch on the 3d printer.
+2.	Place your Pen drive in USB.
+3.	Clean the surface bed plate.
+4.	Load filament into the required extruder as per the requirement.
+5.	Wait until the nozzle & bed plate comes into the required temperature.
+6.	Close the doors of the 3d printer.
+7.	Open the file from the USB storage and select the Print option.
+## RESULT:Thus a prototype of the given part model is developed using 3D Printer.
 ###   Thus a prototype of the given part model is developed using 3D Printer.
