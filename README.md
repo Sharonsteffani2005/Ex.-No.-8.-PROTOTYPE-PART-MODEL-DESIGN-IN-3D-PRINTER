@@ -47,8 +47,26 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+### Name: SHARON STEFFANI.F
+### Register Number: 23007577
+
+### AIM: To prototype the given part model design in 3D Printer.
+
+### REQUIREMENTS:
+●	3D Printer machine.
+●	CURA 4.0 Software.
+●	Autodesk Fusion 360 Software.
+●	System - Windows 7 or higher, 1 GB RAM.
+
+## PROCEDURE:
+Step 1:- Check all Electrical connections.
+
+Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea
+maker first open the software and click the open file option as shown in below figure.
+
+![empd exp8 1](https://github.com/Sharonsteffani2005/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144979934/d025baf6-30e7-4e8e-8946-f41150a91c27)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
